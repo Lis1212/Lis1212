@@ -8,6 +8,22 @@
 ---
 <h3 align="center">Sobre mim</h3>
 
+
+$ ./iniciar_elis.sh
+[READY] Sistema pronto — status: online
+
+$ whoami
+> elis câmara, 23y
+> desenvolvedora full stack
+> Natal, RN · BR
+> pt-br (nativa) | en (intermediário)
+
+$ cat formacao.log
+[OK] ifrn — téc. informática (concluído)
+[~~] ufrn — ciência e tecnologia (em andamento)
+
+lis1212@github:~$ _
+
 $ ./iniciar_elis.sh
 
 [boot] Inicializando sistema...
