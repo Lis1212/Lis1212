@@ -27,7 +27,7 @@
 │  > ifrn - tec. informatica (concluido)        │
 │  > ufrn - ciencias e tecnologia (cursando)    │
 │                                               │
-│  $ _                                          │                                               │
+│  $ _                                          │                                               
 └───────────────────────────────────────────────┘
 
 ```
