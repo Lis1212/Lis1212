@@ -8,22 +8,7 @@
 ---
 <h3 align="center">Sobre mim</h3>
 
-
-$ ./iniciar_elis.sh
-[READY] Sistema pronto — status: online
-
-$ whoami
-> elis câmara, 23y
-> desenvolvedora full stack
-> Natal, RN · BR
-> pt-br (nativa) | en (intermediário)
-
-$ cat formacao.log
-[OK] ifrn — téc. informática (concluído)
-[~~] ufrn — ciência e tecnologia (em andamento)
-
-lis1212@github:~$ _
-
+```
 $ ./iniciar_elis.sh
 
 [boot] Inicializando sistema...
@@ -35,7 +20,7 @@ $ ./iniciar_elis.sh
 Carregando módulos:
 [████████████████████] 100%  desenvolvimento_fullstack.dll
 [████████████████████] 100%  idioma_pt-br.dll — nativo
-[██████████████░░░░░░]  70%  idioma_en.dll — intermediário
+[███████████░░░░░░░░░]  60%  idioma_en.dll — intermediário
 
 $ cat formacao.log
 [OK] ifrn — téc. informática (concluído)
@@ -43,31 +28,9 @@ $ cat formacao.log
 
 [READY] Sistema pronto.
 
-lis1212@github:~$ _
+lis1212@github:~$
 
 ```
-┌──────────────────────────────────────────────────┐
-│  lis1212@github ~ % status: online               │
-├──────────────────────────────────────────────────┤
-│                                                  │
-│  $ whoami                                        │
-│  ┌──────────────────────────────────────────┐    │
-│  │  elis câmara                             │    │
-│  │  23y                                     │    │
-│  │  desenvolvedora full stack               │    │
-│  │  Natal, RN · BR                          │    │
-│  │  pt-br (nativa) | en (intermediario)     │    │
-│  └──────────────────────────────────────────┘    │
-│                                                  │
-│  $ cat formacao.log                              │
-│  > ifrn - tec. informatica (concluido)           │
-│  > ufrn - ciencias e tecnologia (em andamento)   │
-│                                                  │
-│  $ _                                             │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
-
 
 ---
 
