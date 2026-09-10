@@ -17,6 +17,9 @@ $ ./iniciar_elis.sh
 [boot] Uptime: 23 anos
 [boot] Status: online
 
+$ whoami --full
+> elis câmara
+
 Carregando módulos:
 [████████████████████] 100%  desenvolvimento_fullstack.dll
 [████████████████████] 100%  idioma_pt-br.dll — nativo
