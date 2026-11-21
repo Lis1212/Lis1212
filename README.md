@@ -9,26 +9,23 @@
 <h3 align="center">Sobre mim</h3>
 
 ```
-┌─────────────────────────────────────────┐
-│  lis1212@github ~ % status: online      │
-├─────────────────────────────────────────┤
-│                                         │
-│  $ whoami                               │
-│  ┌─────────────────────────────────┐    │
-│  │  elis câmara                    │    │
-│  │  23y                            │    │
-│  │  desenvolvedora full stack      │    │
-│  │  Natal, RN · BR                 │    │
-│  │  pt-br (nativa)                 │    │
-│  │  en (intermediario)             │    │
-│  └─────────────────────────────────┘    │
-│                                         │
-│  $ cat formacao.log                     │
-│  > tec. informatica (concluido)         │
-│  > ciencias e tecnologia (cursando)     │
-│                                         │
-│  $ _                                    │                                               
-└─────────────────────────────────────────┘
+
+  lis1212@github ~ % status: online      
+                                         
+  $ whoami                               
+    > elis câmara                    
+    > 23y                            
+    > desenvolvedora full stack      
+    > Natal, RN · BR                 
+    > pt-br (nativa)                 
+    > en (intermediario)                
+                                         
+  $ cat formacao.log                     
+   > tec. informatica (concluido)         
+   > ciencias e tecnologia (cursando)     
+                                       
+  $ _                                                                                   
+
 
 ```
 
